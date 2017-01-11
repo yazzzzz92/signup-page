@@ -1,0 +1,129 @@
+   img{
+        margin-left: 500px;
+        width: 200px;
+        height: 35px;
+        position: absolute;
+        top: 90px;
+    }
+
+    body{
+        background-color: dodgerblue;
+    }
+    
+    #box1{
+        background-color: aliceblue; 
+        width: 400px;
+        height: 500px;
+        margin-top: 150px;
+        margin-left: 400px;  
+    }
+    
+    header{
+        font-size: 30px;
+        color: lightgray;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        padding-top: 40px;
+    }
+    
+    input{
+        padding: 3px;
+        font-size: inherit;
+        margin-left: 10px;
+        color: lightgray;
+    }
+    
+    input[type="text"]{
+        display: block;
+        margin-bottom: 20px;
+        width: 300px;
+        height: 45px;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 20px;
+        
+    }
+    
+      p{
+        color: white;
+        position: relative;
+        left: 470px;
+        bottom: 170px;
+    }
+    
+    label{
+        display: block;
+        line-height: 15px;
+        padding: 17px;
+        vertical-align: baseline;
+    }
+    
+    #greenbox{
+        width: 250px;
+        height: 50px;
+        background-color: mediumspringgreen;
+        position: relative;
+        bottom: 120px;
+        left: 460px;
+        color: aliceblue;
+        font-size: 25px; }
+
+    .searchbar{
+        position:relative;
+        top: 10px;}
+
+
+    .searchbar2{
+    position: relative;
+    top: 70px;
+}
+
+.Email{
+    color: black;
+    position: relative;
+    bottom: 180px;
+    left: 45px;
+    font-size: 20px;
+}
+
+.Password{
+    color: black;
+    position: relative;
+    bottom: 95px;
+    left: 45px;
+    font-size: 20px;
+}
+
+
+.button{
+    position: relative;
+    top: -195px;
+    left: 530px;
+    font-size: 30px;
+}
+ 
+.forgot{
+    color: darkgray;
+    position: relative;
+    top: -200px;
+    left: 510px;
+    font-size: 18px;
+    text-decoration: underline;
+    
+}
+
+span{
+    text-decoration: underline;
+}
+    
+    
+    
+
+
+
+
+
+
+
+
+
